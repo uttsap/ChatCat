@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/uttsap/ChatCat#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "hogan-express": "^0.5.2"
   }
 }
