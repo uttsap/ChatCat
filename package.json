@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uttsap/ChatCat/issues"
   },
-  "homepage": "https://github.com/uttsap/ChatCat#readme"
+  "homepage": "https://github.com/uttsap/ChatCat#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
