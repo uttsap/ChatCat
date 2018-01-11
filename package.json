@@ -1,0 +1,19 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "ChatCAT - Creating a Realtime Multiroom Chat App using Node.js and MongoDB &amp; Deploying it on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uttsap/ChatCat.git"
+  },
+  "author": "Uttam Sapkota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uttsap/ChatCat/issues"
+  },
+  "homepage": "https://github.com/uttsap/ChatCat#readme"
+}
